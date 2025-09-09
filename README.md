@@ -4,7 +4,10 @@
 [![Téléchargements](https://img.shields.io/github/downloads/Sharokey/sharokey-cli/total.svg)](https://github.com/Sharokey/sharokey-cli/releases)
 [![Version](https://img.shields.io/github/v/release/Sharokey/sharokey-cli)](https://github.com/Sharokey/sharokey-cli/releases/latest)
 
-**Sharokey CLI** est un outil puissant en ligne de commande pour créer, gérer et partager des secrets chiffrés avec une sécurité **Zero Knowledge**. Partagez mots de passe, clés API, identifiants de base de données et fichiers sensibles en toute sécurité avec expiration automatique, limites de vues et chiffrement de niveau entreprise.
+👉 **Découvrez la plateforme complète** : Sharokey - Partage Sécurisé de Secrets
+
+Sharokey CLI est un outil en ligne de commande permettant de créer, gérer et partager des secrets chiffrés avec une sécurité Zero Knowledge.
+Idéal pour partager des mots de passe, clés API, identifiants de base de données et fichiers sensibles en toute sécurité, avec expiration automatique, nombre de vues limité et chiffrement de niveau entreprise.
 
 ## 🔐 Chiffrement Zero Knowledge
 
